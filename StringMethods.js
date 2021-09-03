@@ -74,6 +74,21 @@ console.log(res) // hello world
 var res = helloWorld.toUpperCase();
 console.log(res) // HELLO WORLD
 
-var trimIt = "   Hello World   "
+var trimIt = "   Hello World   ";
 var res = trimIt.trim();
 console.log(res); // Hello World
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
